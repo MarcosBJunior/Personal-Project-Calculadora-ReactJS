@@ -36,7 +36,8 @@ O projeto **Calculadora-Reactjs** é um projeto simples baseado na criação de 
     
     ## 📂 **Dependências e Libs** 📂
     
-* ### Yarn
+<details>    
+<summary> * ### Yarn</summary>
 
 ## Install via npm
 
