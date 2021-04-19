@@ -16,7 +16,8 @@ O projeto **Calculadora-Reactjs** é um projeto simples baseado na criação de 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) 
-<details>    
+
+<details>  
  <summary>Yarn</summary>
 
 ## Install via npm
@@ -35,6 +36,7 @@ Verifique se o Yarn está instalado executando:
 **yarn --version**
 
 </details>
+
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
  ## ⚠️ **Aplicando**⚠️
