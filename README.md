@@ -4,7 +4,7 @@
 
 ## 👨‍💻 **Projeto**👨‍💻
 
-O projeto **Calculadora-Reactjs** é um projeto simples baseado na criação de uma calculadora utilizando a tecnologia React.js.
+O projeto **Calculadora-Reactjs** é um projeto simples baseado na criação de uma calculadora utilizando a tecnologia React.js, Eu apresento o Stateful Component, que é definido usando uma classe e torna mais fácil controlar o estado do aplicativo fornecido pelo componente. Este exemplo de componente dá uma ideia de como você adiciona um evento onClick em JSX.
 
 ## ⌨ **Linguagens Utilizadas no Projeto**⌨ 
 
@@ -15,7 +15,7 @@ O projeto **Calculadora-Reactjs** é um projeto simples baseado na criação de 
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)  ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
- ## ⚠️ **Como Usar**⚠️
+ ## ⚠️ **Aplicando**⚠️
 
 1. Abra o prompt de comando, navegue até um local conveniente e execute o comando 
 
@@ -29,7 +29,7 @@ O projeto **Calculadora-Reactjs** é um projeto simples baseado na criação de 
 
      **code .** 
      
-4. Dentro do Vs Code Abra um termina e execute o projeto utilizando o comando 
+4. Dentro do Vs Code Abra um terminal e execute o projeto utilizando o comando 
 
     **npm start** ou **yarn start**
     
