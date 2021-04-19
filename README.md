@@ -37,7 +37,7 @@ O projeto **Calculadora-Reactjs** é um projeto simples baseado na criação de 
     ## 📂 **Dependências e Libs** 📂
     
 <details>    
- <summary> <h4>Yarn</h4> </summary>
+ <summary>Yarn</summary>
 
 ## Install via npm
 
@@ -53,4 +53,8 @@ Depois de instalar o npm, você pode executar o seguinte para instalar e atualiz
 Verifique se o Yarn está instalado executando:
 
 **yarn --version**
+
+</details>
+
+
     
