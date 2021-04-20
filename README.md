@@ -13,7 +13,10 @@ O projeto **Calculadora-Reactjs** é um projeto simples baseado na criação de 
 
 ## 🚀 **Tecnologias Utilizadas no Projeto**🚀
 
-<ul><a href="https://reactjs.org" rel="nofollow">React</a></ul>
+<ul> <li><a href="https://reactjs.org" rel="nofollow">React</a> </li></ul>
+<ul> <li><a href="https://classic.yarnpkg.com/lang/en/" rel="nofollow">Yarn</a> </li></ul>
+<ul> <li><a href="https://docs.npmjs.com" rel="nofollow">Npm</a> </li></ul>
+
 
 
  ## ⚠️ **Aplicando**⚠️
