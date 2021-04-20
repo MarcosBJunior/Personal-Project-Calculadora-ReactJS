@@ -1,12 +1,12 @@
-   <h1>Personal-Project-Calculadora-ReactJS📌</h1>
+   <h1>📌 Personal-Project-Calculadora-ReactJS 📌</h1>
 
 
-## 🔎**Preview**🔎
+## 🔎 **Preview** 🔎
 
 ![gif2](https://user-images.githubusercontent.com/69303138/115310150-b8c91a00-a143-11eb-8782-bb87543eeab3.gif)
 
 
-## 👨‍💻 **Project**👨‍💻
+## 👨‍💻 **Project** 👨‍💻
 
 O projeto **Calculadora-Reactjs** é um projeto simples baseado na criação de uma calculadora utilizando a tecnologia React.js, Eu apresento o Stateful Component, que é definido usando uma classe e torna mais fácil controlar o estado do aplicativo fornecido pelo componente. Este exemplo de componente dá uma ideia de como você adiciona um evento onClick em JSX.
 
