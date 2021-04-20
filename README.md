@@ -39,6 +39,7 @@ O projeto **Calculadora-Reactjs** é um projeto simples baseado na criação de 
     
     
     ## 📂 **Dependências e Libs** 📂
+    🚫 ### Neste projeto não foi utilizado nehuma Dependência e nenhuma Lib 🚫
     
 
 
