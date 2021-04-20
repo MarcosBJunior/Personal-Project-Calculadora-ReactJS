@@ -1,17 +1,21 @@
-# Personal-Project-Calculadora-ReactJS
+# 📌Personal-Project-Calculadora-ReactJS📌
 
+
+# 🔎**Preview**🔎
 ![gif2](https://user-images.githubusercontent.com/69303138/115310150-b8c91a00-a143-11eb-8782-bb87543eeab3.gif)
 
-## 👨‍💻 **Projeto**👨‍💻
+
+## 👨‍💻 **Project**👨‍💻
 
 O projeto **Calculadora-Reactjs** é um projeto simples baseado na criação de uma calculadora utilizando a tecnologia React.js, Eu apresento o Stateful Component, que é definido usando uma classe e torna mais fácil controlar o estado do aplicativo fornecido pelo componente. Este exemplo de componente dá uma ideia de como você adiciona um evento onClick em JSX.
 
-## ⌨ **Linguagens Utilizadas no Projeto**⌨ 
+
+## ⌨ **Languages used in the project**⌨ 
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-## 🚀 **Tecnologias Utilizadas no Projeto**🚀
+## 🚀 **Features**🚀
 
 <ul> <li><a href="https://reactjs.org" rel="nofollow">React</a> </li></ul>
 <ul> <li><a href="https://classic.yarnpkg.com/lang/en/" rel="nofollow">Yarn</a> </li></ul>
@@ -19,7 +23,7 @@ O projeto **Calculadora-Reactjs** é um projeto simples baseado na criação de 
 
 
 
- ## ⚠️ **Aplicando**⚠️
+ ## ⚠️ **Application**⚠️
 
 1. Abra o prompt de comando, navegue até um local conveniente e execute o comando 
 
