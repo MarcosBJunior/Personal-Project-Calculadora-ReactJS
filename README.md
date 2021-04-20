@@ -19,20 +19,19 @@ O projeto **Calculadora-Reactjs** é um projeto simples baseado na criação de 
 
 1. Abra o prompt de comando, navegue até um local conveniente e execute o comando 
 
-    <pre><code><span>Create-react-app +"nome do projeto"</span> yarn</code>
-    </pre>
+    <pre><code><span>Create-react-app +"nome do projeto"</span> yarn</code></pre>
     
 2. Utilizando o cmd se direcione até a pasta do projeto 
 
-    **cd "+pasta do projeto"**
+    <pre><code><span>cd "+pasta do projeto"</span> yarn</code></pre>
 
 3. abra a pasta no Vs code digitando 
 
-     **code .** 
+    <pre><code><span>code .</span> yarn</code></pre>
      
 4. Dentro do Vs Code Abra um terminal e execute o projeto utilizando o comando 
 
-    **npm start** ou **yarn start**
+    <pre><code><span>npm start ou yarn start</span> yarn</code></pre>
     
     
     ## 📂 **Dependências e Libs** 📂
