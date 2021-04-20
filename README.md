@@ -2,6 +2,7 @@
 
 
 ## 🔎**Preview**🔎
+
 ![gif2](https://user-images.githubusercontent.com/69303138/115310150-b8c91a00-a143-11eb-8782-bb87543eeab3.gif)
 
 
@@ -29,7 +30,7 @@ O projeto **Calculadora-Reactjs** é um projeto simples baseado na criação de 
 
     <pre><code><span>Create-react-app + "nome do projeto"</span></code></pre>
     
-2. Utilizando o cmd se direcione até a pasta do projeto 
+2. Utilizando o cmd se direcione até a pasta do projeto digitando 
 
     <pre><code><span>cd + "pasta do projeto"</span></code></pre>
 
