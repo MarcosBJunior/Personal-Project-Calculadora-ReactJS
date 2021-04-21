@@ -1,4 +1,4 @@
-   <h1>📌 Personal-Project-Calculadora-ReactJS</h1>
+   <h1>📌 Personal-Project-Calculadora-ReactJS 📌</h1>
 
 
 ## 🔎 **Preview** 🔎
